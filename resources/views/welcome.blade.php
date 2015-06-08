@@ -20,7 +20,7 @@
 <div class=" container" style="height:50em">
 <div class="col-md-12 well" style="margin-top:10px;height:80px ">
 	<div class=" col-md-6" >dasdasd</div>
-	<div class="col-md-6">baasdasdsadasdrra de navegacion</div>
+	<div class="col-md-6"> de navegacion</div>
 </div>
 	<section class="col-md-12">
 		<article class="col-md-8 well" style="height:40em">
